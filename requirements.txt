@@ -1,0 +1,10 @@
+sacremoses==0.0.53
+notebook==6.4.8
+lxml==4.9.2
+torch==2.0.0
+transformers==4.28.1
+nltk==3.8.1
+numpy==1.23.5
+pandas~=1.5.3
+scikit-learn==1.2.2
+rouge-score==0.1.2
